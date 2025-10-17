@@ -132,6 +132,13 @@ cat: mostrara el contenido del archivo
  git marge :traer cambio de una rama a otra 
 <img width="825" height="178" alt="image" src="https://github.com/user-attachments/assets/b87c7bd4-eecb-4111-a23a-aaa0f92ff670" />
 
+git remote add origin: crear un servidor remoto para guardar nuestros cambios
+<img width="814" height="63" alt="image" src="https://github.com/user-attachments/assets/3a84cdab-b18a-4a63-a7fe-33a441a87370" />
+git push -u origin main: agrega los cambios al repositorio y crea la rama en el github
+<img width="833" height="296" alt="image" src="https://github.com/user-attachments/assets/af6eeb61-e225-431f-ba7a-92c1ade9d1c5" />
+
+
+
 
 
 
